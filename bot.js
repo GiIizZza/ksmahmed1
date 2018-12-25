@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : CF Na World Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`2play`,"https://www.twitch.tv/gizaonlyone")
+client.user.setGame(`2Play`,"https://www.twitch.tv/gizaonlyone")
 client.user.setStatus("dnd")
 });
 
